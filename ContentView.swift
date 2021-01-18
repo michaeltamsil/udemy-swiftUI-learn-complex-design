@@ -23,13 +23,13 @@ struct ContentView: View {
                         Circle().stroke(Color.white, lineWidth: 5)
                     )
                 
-                Text("Angela Yu")
+                Text("Elon Musk")
                     .fontWeight(.bold)
                     .padding()
                     .font(Font.custom("HachiMaruPop-Regular", size: 40))
                     .foregroundColor(.white)
                 
-                Text("iOS Developer")
+                Text("Entreprenour")
                     .foregroundColor(.white)
                     .font(.system(size: 25))
                 
